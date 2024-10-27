@@ -19,6 +19,7 @@ function App() {
       <h2>Colors</h2>
       <p>Aim at legible contrast. Use contrast checker tool to achieve 4.5:1 minimum contrast ratio</p>
       <p>Limit the number of colors, ideally 2 or 3 main colors.</p>
+      <p>Remember the 60:30:10 rule.</p>
       <h2>Icons</h2>
       <p>Icons should always have a label.</p>
     </article>
